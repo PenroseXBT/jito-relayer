@@ -25,3 +25,4 @@ echo "Running jito-transaction-relayer @ $(date)"
      --verifying-key-pem-path "$VERIFYING_KEY_PEM_PATH" \
      --cluster "$CLUSTER" \
      --region "$REGION" 
+
